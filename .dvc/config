@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = C:\Users\stata\AppData\Local\Temp\ecommerc_storage
